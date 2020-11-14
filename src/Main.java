@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Feature#3");
         System.out.println("Feature#3");
         System.out.println("Feature#3");
+        System.out.println("y/n - продолжить работу с программой");
     }
 }
